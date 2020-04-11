@@ -1,0 +1,13 @@
+C:\Users\willi\source\repos\ControleDeEstoque\ControleDeEstoque\bin\Debug\netcoreapp3.1\ControleDeEstoque.exe
+C:\Users\willi\source\repos\ControleDeEstoque\ControleDeEstoque\bin\Debug\netcoreapp3.1\ControleDeEstoque.deps.json
+C:\Users\willi\source\repos\ControleDeEstoque\ControleDeEstoque\bin\Debug\netcoreapp3.1\ControleDeEstoque.runtimeconfig.json
+C:\Users\willi\source\repos\ControleDeEstoque\ControleDeEstoque\bin\Debug\netcoreapp3.1\ControleDeEstoque.runtimeconfig.dev.json
+C:\Users\willi\source\repos\ControleDeEstoque\ControleDeEstoque\bin\Debug\netcoreapp3.1\ControleDeEstoque.dll
+C:\Users\willi\source\repos\ControleDeEstoque\ControleDeEstoque\bin\Debug\netcoreapp3.1\ControleDeEstoque.pdb
+C:\Users\willi\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.AssemblyInfo.cs
+C:\Users\willi\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.dll
+C:\Users\willi\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.pdb
+C:\Users\willi\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.genruntimeconfig.cache
