@@ -1,0 +1,13 @@
+C:\Users\willi\Documents\Feitos em CSharp\Exercício 10\Exercício 10\bin\Debug\netcoreapp3.1\Exercício 10.exe
+C:\Users\willi\Documents\Feitos em CSharp\Exercício 10\Exercício 10\bin\Debug\netcoreapp3.1\Exercício 10.deps.json
+C:\Users\willi\Documents\Feitos em CSharp\Exercício 10\Exercício 10\bin\Debug\netcoreapp3.1\Exercício 10.runtimeconfig.json
+C:\Users\willi\Documents\Feitos em CSharp\Exercício 10\Exercício 10\bin\Debug\netcoreapp3.1\Exercício 10.runtimeconfig.dev.json
+C:\Users\willi\Documents\Feitos em CSharp\Exercício 10\Exercício 10\bin\Debug\netcoreapp3.1\Exercício 10.dll
+C:\Users\willi\Documents\Feitos em CSharp\Exercício 10\Exercício 10\bin\Debug\netcoreapp3.1\Exercício 10.pdb
+C:\Users\willi\Documents\Feitos em CSharp\Exercício 10\Exercício 10\obj\Debug\netcoreapp3.1\Exercício 10.csprojAssemblyReference.cache
+C:\Users\willi\Documents\Feitos em CSharp\Exercício 10\Exercício 10\obj\Debug\netcoreapp3.1\Exercício 10.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Feitos em CSharp\Exercício 10\Exercício 10\obj\Debug\netcoreapp3.1\Exercício 10.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Feitos em CSharp\Exercício 10\Exercício 10\obj\Debug\netcoreapp3.1\Exercício 10.AssemblyInfo.cs
+C:\Users\willi\Documents\Feitos em CSharp\Exercício 10\Exercício 10\obj\Debug\netcoreapp3.1\Exercício 10.dll
+C:\Users\willi\Documents\Feitos em CSharp\Exercício 10\Exercício 10\obj\Debug\netcoreapp3.1\Exercício 10.pdb
+C:\Users\willi\Documents\Feitos em CSharp\Exercício 10\Exercício 10\obj\Debug\netcoreapp3.1\Exercício 10.genruntimeconfig.cache
