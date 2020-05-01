@@ -31,6 +31,7 @@ namespace Exercicio_11 {
                 OrderItem item = new OrderItem(quantity, productPrice, product);
                 order.AddItem(item);
             }
+            Console.WriteLine();
             Console.WriteLine(order);
         }
     }
