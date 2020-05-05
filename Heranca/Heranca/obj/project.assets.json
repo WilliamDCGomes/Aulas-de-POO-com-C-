@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\Desktop\\Programing\\Repositório Local Aulas de POO em C#\\Aulas-de-POO-com-C-\\Heranca\\Heranca\\Heranca.csproj",
+      "projectUniqueName": "C:\\Users\\willi\\Desktop\\Programing\\GitHub Aulas de POO em C#\\Heranca\\Heranca\\Heranca.csproj",
       "projectName": "Heranca",
-      "projectPath": "C:\\Users\\willi\\Desktop\\Programing\\Repositório Local Aulas de POO em C#\\Aulas-de-POO-com-C-\\Heranca\\Heranca\\Heranca.csproj",
+      "projectPath": "C:\\Users\\willi\\Desktop\\Programing\\GitHub Aulas de POO em C#\\Heranca\\Heranca\\Heranca.csproj",
       "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\Desktop\\Programing\\Repositório Local Aulas de POO em C#\\Aulas-de-POO-com-C-\\Heranca\\Heranca\\obj\\",
+      "outputPath": "C:\\Users\\willi\\Desktop\\Programing\\GitHub Aulas de POO em C#\\Heranca\\Heranca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",

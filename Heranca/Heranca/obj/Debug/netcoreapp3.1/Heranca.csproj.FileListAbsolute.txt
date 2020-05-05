@@ -11,3 +11,16 @@ C:\Users\willi\Desktop\Programing\Repositório Local Aulas de POO em C#\Aulas-de
 C:\Users\willi\Desktop\Programing\Repositório Local Aulas de POO em C#\Aulas-de-POO-com-C-\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.dll
 C:\Users\willi\Desktop\Programing\Repositório Local Aulas de POO em C#\Aulas-de-POO-com-C-\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.pdb
 C:\Users\willi\Desktop\Programing\Repositório Local Aulas de POO em C#\Aulas-de-POO-com-C-\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.genruntimeconfig.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.exe
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.deps.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Heranca\Heranca\bin\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfo.cs
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Heranca\Heranca\obj\Debug\netcoreapp3.1\Heranca.genruntimeconfig.cache
