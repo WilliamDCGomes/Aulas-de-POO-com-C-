@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido 4\Exercicio Resolvido 4\bin\Debug\netcoreapp3.1\Exercicio Resolvido 4.exe
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido 4\Exercicio Resolvido 4\bin\Debug\netcoreapp3.1\Exercicio Resolvido 4.deps.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido 4\Exercicio Resolvido 4\bin\Debug\netcoreapp3.1\Exercicio Resolvido 4.runtimeconfig.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido 4\Exercicio Resolvido 4\bin\Debug\netcoreapp3.1\Exercicio Resolvido 4.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido 4\Exercicio Resolvido 4\bin\Debug\netcoreapp3.1\Exercicio Resolvido 4.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido 4\Exercicio Resolvido 4\bin\Debug\netcoreapp3.1\Exercicio Resolvido 4.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido 4\Exercicio Resolvido 4\obj\Debug\netcoreapp3.1\Exercicio Resolvido 4.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido 4\Exercicio Resolvido 4\obj\Debug\netcoreapp3.1\Exercicio Resolvido 4.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido 4\Exercicio Resolvido 4\obj\Debug\netcoreapp3.1\Exercicio Resolvido 4.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido 4\Exercicio Resolvido 4\obj\Debug\netcoreapp3.1\Exercicio Resolvido 4.AssemblyInfo.cs
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido 4\Exercicio Resolvido 4\obj\Debug\netcoreapp3.1\Exercicio Resolvido 4.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido 4\Exercicio Resolvido 4\obj\Debug\netcoreapp3.1\Exercicio Resolvido 4.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido 4\Exercicio Resolvido 4\obj\Debug\netcoreapp3.1\Exercicio Resolvido 4.genruntimeconfig.cache
