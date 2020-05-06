@@ -1,11 +1,15 @@
 ﻿namespace Heranca.Entities {
-    class SavingsAccount : Account{
+    sealed class SavingsAccount : Account{
         public double InterestRate { get; set; }
 
         public SavingsAccount() {
         }
-        public SavingsAccount(int number, string holder, double balance, double interestRate) : base(number, holder, balance) {
+        public SavingsAccount(int number, string holder, double balance, double interestRate) : base(number, holder, balance){
             InterestRate = interestRate;
+
+            Number = number;
+            Holder = holder;
+            Balance = balance;
         }
 
         public void UpdateBalance() {
