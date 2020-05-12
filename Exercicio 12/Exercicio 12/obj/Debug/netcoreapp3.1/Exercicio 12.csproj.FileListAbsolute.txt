@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio 12\Exercicio 12\bin\Debug\netcoreapp3.1\Exercicio 12.exe
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio 12\Exercicio 12\bin\Debug\netcoreapp3.1\Exercicio 12.deps.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio 12\Exercicio 12\bin\Debug\netcoreapp3.1\Exercicio 12.runtimeconfig.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio 12\Exercicio 12\bin\Debug\netcoreapp3.1\Exercicio 12.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio 12\Exercicio 12\bin\Debug\netcoreapp3.1\Exercicio 12.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio 12\Exercicio 12\bin\Debug\netcoreapp3.1\Exercicio 12.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio 12\Exercicio 12\obj\Debug\netcoreapp3.1\Exercicio 12.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio 12\Exercicio 12\obj\Debug\netcoreapp3.1\Exercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio 12\Exercicio 12\obj\Debug\netcoreapp3.1\Exercicio 12.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio 12\Exercicio 12\obj\Debug\netcoreapp3.1\Exercicio 12.AssemblyInfo.cs
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio 12\Exercicio 12\obj\Debug\netcoreapp3.1\Exercicio 12.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio 12\Exercicio 12\obj\Debug\netcoreapp3.1\Exercicio 12.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Exercicio 12\Exercicio 12\obj\Debug\netcoreapp3.1\Exercicio 12.genruntimeconfig.cache
