@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\ProcessFile\ProcessFile\bin\Debug\netcoreapp3.1\ProcessFile.exe
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\ProcessFile\ProcessFile\bin\Debug\netcoreapp3.1\ProcessFile.deps.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\ProcessFile\ProcessFile\bin\Debug\netcoreapp3.1\ProcessFile.runtimeconfig.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\ProcessFile\ProcessFile\bin\Debug\netcoreapp3.1\ProcessFile.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\ProcessFile\ProcessFile\bin\Debug\netcoreapp3.1\ProcessFile.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\ProcessFile\ProcessFile\bin\Debug\netcoreapp3.1\ProcessFile.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\ProcessFile\ProcessFile\obj\Debug\netcoreapp3.1\ProcessFile.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\ProcessFile\ProcessFile\obj\Debug\netcoreapp3.1\ProcessFile.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\ProcessFile\ProcessFile\obj\Debug\netcoreapp3.1\ProcessFile.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\ProcessFile\ProcessFile\obj\Debug\netcoreapp3.1\ProcessFile.AssemblyInfo.cs
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\ProcessFile\ProcessFile\obj\Debug\netcoreapp3.1\ProcessFile.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\ProcessFile\ProcessFile\obj\Debug\netcoreapp3.1\ProcessFile.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\ProcessFile\ProcessFile\obj\Debug\netcoreapp3.1\ProcessFile.genruntimeconfig.cache
