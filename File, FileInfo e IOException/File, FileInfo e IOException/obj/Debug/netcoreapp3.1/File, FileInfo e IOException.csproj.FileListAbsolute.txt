@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\File, FileInfo e IOException\File, FileInfo e IOException\bin\Debug\netcoreapp3.1\File, FileInfo e IOException.exe
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\File, FileInfo e IOException\File, FileInfo e IOException\bin\Debug\netcoreapp3.1\File, FileInfo e IOException.deps.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\File, FileInfo e IOException\File, FileInfo e IOException\bin\Debug\netcoreapp3.1\File, FileInfo e IOException.runtimeconfig.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\File, FileInfo e IOException\File, FileInfo e IOException\bin\Debug\netcoreapp3.1\File, FileInfo e IOException.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\File, FileInfo e IOException\File, FileInfo e IOException\bin\Debug\netcoreapp3.1\File, FileInfo e IOException.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\File, FileInfo e IOException\File, FileInfo e IOException\bin\Debug\netcoreapp3.1\File, FileInfo e IOException.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\File, FileInfo e IOException\File, FileInfo e IOException\obj\Debug\netcoreapp3.1\File, FileInfo e IOException.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\File, FileInfo e IOException\File, FileInfo e IOException\obj\Debug\netcoreapp3.1\File, FileInfo e IOException.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\File, FileInfo e IOException\File, FileInfo e IOException\obj\Debug\netcoreapp3.1\File, FileInfo e IOException.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\File, FileInfo e IOException\File, FileInfo e IOException\obj\Debug\netcoreapp3.1\File, FileInfo e IOException.AssemblyInfo.cs
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\File, FileInfo e IOException\File, FileInfo e IOException\obj\Debug\netcoreapp3.1\File, FileInfo e IOException.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\File, FileInfo e IOException\File, FileInfo e IOException\obj\Debug\netcoreapp3.1\File, FileInfo e IOException.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\File, FileInfo e IOException\File, FileInfo e IOException\obj\Debug\netcoreapp3.1\File, FileInfo e IOException.genruntimeconfig.cache
