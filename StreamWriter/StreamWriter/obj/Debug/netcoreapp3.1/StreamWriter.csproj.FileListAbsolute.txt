@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.AssemblyInfo.cs
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriter.exe
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriter.deps.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriter.runtimeconfig.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriter.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriter.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriter.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.genruntimeconfig.cache
