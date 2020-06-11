@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloco using", "Bloco using\Bloco using.csproj", "{0DFF22AC-DBD0-479D-B831-C8BD5AE78A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DFF22AC-DBD0-479D-B831-C8BD5AE78A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFF22AC-DBD0-479D-B831-C8BD5AE78A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFF22AC-DBD0-479D-B831-C8BD5AE78A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFF22AC-DBD0-479D-B831-C8BD5AE78A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63D92080-4C6B-4B15-9A0B-25E4FD98B6D1}
+	EndGlobalSection
+EndGlobal

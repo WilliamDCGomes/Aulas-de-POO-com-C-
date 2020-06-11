@@ -1,0 +1,12 @@
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Bloco using\Bloco using\bin\Debug\netcoreapp3.1\Bloco using.exe
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Bloco using\Bloco using\bin\Debug\netcoreapp3.1\Bloco using.deps.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Bloco using\Bloco using\bin\Debug\netcoreapp3.1\Bloco using.runtimeconfig.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Bloco using\Bloco using\bin\Debug\netcoreapp3.1\Bloco using.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Bloco using\Bloco using\bin\Debug\netcoreapp3.1\Bloco using.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Bloco using\Bloco using\bin\Debug\netcoreapp3.1\Bloco using.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Bloco using\Bloco using\obj\Debug\netcoreapp3.1\Bloco using.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Bloco using\Bloco using\obj\Debug\netcoreapp3.1\Bloco using.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Bloco using\Bloco using\obj\Debug\netcoreapp3.1\Bloco using.AssemblyInfo.cs
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Bloco using\Bloco using\obj\Debug\netcoreapp3.1\Bloco using.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Bloco using\Bloco using\obj\Debug\netcoreapp3.1\Bloco using.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Bloco using\Bloco using\obj\Debug\netcoreapp3.1\Bloco using.genruntimeconfig.cache
