@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Path\Path\bin\Debug\netcoreapp3.1\Path.exe
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Path\Path\bin\Debug\netcoreapp3.1\Path.deps.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Path\Path\bin\Debug\netcoreapp3.1\Path.runtimeconfig.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Path\Path\bin\Debug\netcoreapp3.1\Path.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Path\Path\bin\Debug\netcoreapp3.1\Path.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Path\Path\bin\Debug\netcoreapp3.1\Path.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Path\Path\obj\Debug\netcoreapp3.1\Path.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Path\Path\obj\Debug\netcoreapp3.1\Path.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Path\Path\obj\Debug\netcoreapp3.1\Path.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Path\Path\obj\Debug\netcoreapp3.1\Path.AssemblyInfo.cs
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Path\Path\obj\Debug\netcoreapp3.1\Path.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Path\Path\obj\Debug\netcoreapp3.1\Path.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Path\Path\obj\Debug\netcoreapp3.1\Path.genruntimeconfig.cache
