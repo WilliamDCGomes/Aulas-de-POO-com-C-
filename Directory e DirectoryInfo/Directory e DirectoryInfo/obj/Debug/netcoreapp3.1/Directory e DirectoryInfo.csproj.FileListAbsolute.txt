@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Directory e DirectoryInfo\Directory e DirectoryInfo\bin\Debug\netcoreapp3.1\Directory e DirectoryInfo.exe
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Directory e DirectoryInfo\Directory e DirectoryInfo\bin\Debug\netcoreapp3.1\Directory e DirectoryInfo.deps.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Directory e DirectoryInfo\Directory e DirectoryInfo\bin\Debug\netcoreapp3.1\Directory e DirectoryInfo.runtimeconfig.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Directory e DirectoryInfo\Directory e DirectoryInfo\bin\Debug\netcoreapp3.1\Directory e DirectoryInfo.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Directory e DirectoryInfo\Directory e DirectoryInfo\bin\Debug\netcoreapp3.1\Directory e DirectoryInfo.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Directory e DirectoryInfo\Directory e DirectoryInfo\bin\Debug\netcoreapp3.1\Directory e DirectoryInfo.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Directory e DirectoryInfo\Directory e DirectoryInfo\obj\Debug\netcoreapp3.1\Directory e DirectoryInfo.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Directory e DirectoryInfo\Directory e DirectoryInfo\obj\Debug\netcoreapp3.1\Directory e DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Directory e DirectoryInfo\Directory e DirectoryInfo\obj\Debug\netcoreapp3.1\Directory e DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Directory e DirectoryInfo\Directory e DirectoryInfo\obj\Debug\netcoreapp3.1\Directory e DirectoryInfo.AssemblyInfo.cs
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Directory e DirectoryInfo\Directory e DirectoryInfo\obj\Debug\netcoreapp3.1\Directory e DirectoryInfo.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Directory e DirectoryInfo\Directory e DirectoryInfo\obj\Debug\netcoreapp3.1\Directory e DirectoryInfo.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\Directory e DirectoryInfo\Directory e DirectoryInfo\obj\Debug\netcoreapp3.1\Directory e DirectoryInfo.genruntimeconfig.cache
