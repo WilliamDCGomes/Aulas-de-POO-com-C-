@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\netcoreapp3.1\SolucaoSemInterface.exe
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\netcoreapp3.1\SolucaoSemInterface.deps.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\netcoreapp3.1\SolucaoSemInterface.runtimeconfig.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\netcoreapp3.1\SolucaoSemInterface.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\netcoreapp3.1\SolucaoSemInterface.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\netcoreapp3.1\SolucaoSemInterface.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.AssemblyInfo.cs
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\netcoreapp3.1\SolucaoSemInterface.genruntimeconfig.cache

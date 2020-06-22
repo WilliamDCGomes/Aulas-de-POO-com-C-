@@ -5,7 +5,6 @@ namespace FileStream_e_StreamReader {
     class Program {
         static void Main(string[] args) {
             string path = @"c:\temp\file1.txt";
-            FileStream fs = null;
             StreamReader sr = null;
             try {
                 sr = File.OpenText(path);
