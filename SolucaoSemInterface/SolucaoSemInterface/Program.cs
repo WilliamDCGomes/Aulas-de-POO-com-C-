@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using SolucaoSemInterface.Entities;
+using SolucaoSemInterface.Services;
 namespace SolucaoSemInterface {
     class Program {
         static void Main(string[] args) {
@@ -11,7 +12,15 @@ namespace SolucaoSemInterface {
             DateTime start = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy HH:mm", CultureInfo.InvariantCulture);
             Console.Write("Return (dd/MM/yyyy hh:mm): ");
             DateTime finish = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy HH:mm", CultureInfo.InvariantCulture);
+            Console.Write("Enter price per hour: ");
+            double hour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Enter price per day: ");
+            double day = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
+            RentalService rentalService = new RentalService(hour, day);
+            rentalService.ProcessInvoice(carRental);
+            Console.WriteLine("INVOICE:");
+            Console.WriteLine(carRental.Invoice);
         }
     }
 }
