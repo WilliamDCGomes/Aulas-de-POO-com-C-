@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Globalization;
-using SolucaoSemInterface.Entities;
-using SolucaoSemInterface.Services;
-namespace SolucaoSemInterface {
+using SolucaoComInterface.Entities;
+using SolucaoComInterface.Services;
+namespace SolucaoComInterface {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Enter rental data");
@@ -17,7 +17,7 @@ namespace SolucaoSemInterface {
             Console.Write("Enter price per day: ");
             double day = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
-            RentalService rentalService = new RentalService(hour, day);
+            RentalService rentalService = new RentalService(hour, day, new BrazilTaxService());
             rentalService.ProcessInvoice(carRental);
             Console.WriteLine("INVOICE:");
             Console.WriteLine(carRental.Invoice);
