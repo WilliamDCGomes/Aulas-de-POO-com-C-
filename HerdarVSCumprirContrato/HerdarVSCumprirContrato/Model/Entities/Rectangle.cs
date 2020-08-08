@@ -1,7 +1,7 @@
 ﻿using System.Globalization;
 
 namespace HerdarVSCumprirContrato.Model.Entities {
-    class Rectangle : Shape{
+    class Rectangle : Abstractshape{
         public double Width { get; set; }
         public double Height { get; set; }
 

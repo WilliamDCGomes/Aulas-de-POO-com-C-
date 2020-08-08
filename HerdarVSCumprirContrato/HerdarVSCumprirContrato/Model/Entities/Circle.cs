@@ -2,7 +2,7 @@
 using System.Globalization;
 
 namespace HerdarVSCumprirContrato.Model.Entities {
-    class Circle : Shape{
+    class Circle : Abstractshape{
         public double Radius { get; set; }
 
         public override double Area() {
