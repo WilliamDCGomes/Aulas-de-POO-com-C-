@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerdarVSCumprirContrato\HerdarVSCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVSCumprirContrato.exe
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerdarVSCumprirContrato\HerdarVSCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVSCumprirContrato.deps.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerdarVSCumprirContrato\HerdarVSCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVSCumprirContrato.runtimeconfig.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerdarVSCumprirContrato\HerdarVSCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVSCumprirContrato.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerdarVSCumprirContrato\HerdarVSCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVSCumprirContrato.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerdarVSCumprirContrato\HerdarVSCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVSCumprirContrato.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.AssemblyInfo.cs
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.genruntimeconfig.cache
