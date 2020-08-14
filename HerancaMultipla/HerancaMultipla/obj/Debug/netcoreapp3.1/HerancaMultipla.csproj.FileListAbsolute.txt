@@ -1,0 +1,13 @@
+C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.exe
+C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.deps.json
+C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.runtimeconfig.json
+C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.runtimeconfig.dev.json
+C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.dll
+C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.pdb
+C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.csprojAssemblyReference.cache
+C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.AssemblyInfoInputs.cache
+C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.AssemblyInfo.cs
+C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.csproj.CoreCompileInputs.cache
+C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.dll
+C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.pdb
+C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.genruntimeconfig.cache
