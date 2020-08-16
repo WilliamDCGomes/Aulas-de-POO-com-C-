@@ -1,6 +1,6 @@
 ﻿using System;
 namespace HerancaMultipla.Devices{
-    class Printer : Device{
+    class Printer : Device, IPrinter{
         public override void ProcessDoc(string document){
             Console.WriteLine($"Printer processing: {document}");
         }

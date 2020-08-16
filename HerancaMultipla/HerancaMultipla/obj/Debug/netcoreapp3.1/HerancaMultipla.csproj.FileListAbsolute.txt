@@ -11,3 +11,16 @@ C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-
 C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.dll
 C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.pdb
 C:\Users\Regional\Desktop\Feitos na Sala Teste\Aulas de POO em C Sharp\Aulas-de-POO-com-C-Sharp\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.genruntimeconfig.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.exe
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.deps.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.runtimeconfig.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.AssemblyInfo.cs
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.dll
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.pdb
+C:\Users\willi\Desktop\Programing\GitHub Aulas de POO em C#\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.genruntimeconfig.cache

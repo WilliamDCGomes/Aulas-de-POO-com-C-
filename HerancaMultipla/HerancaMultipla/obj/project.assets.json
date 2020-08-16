@@ -8,26 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Regional\\.nuget\\packages\\": {}
+    "C:\\Users\\willi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Regional\\Desktop\\Feitos na Sala Teste\\Aulas de POO em C Sharp\\Aulas-de-POO-com-C-Sharp\\HerancaMultipla\\HerancaMultipla\\HerancaMultipla.csproj",
+      "projectUniqueName": "C:\\Users\\willi\\Desktop\\Programing\\GitHub Aulas de POO em C#\\HerancaMultipla\\HerancaMultipla\\HerancaMultipla.csproj",
       "projectName": "HerancaMultipla",
-      "projectPath": "C:\\Users\\Regional\\Desktop\\Feitos na Sala Teste\\Aulas de POO em C Sharp\\Aulas-de-POO-com-C-Sharp\\HerancaMultipla\\HerancaMultipla\\HerancaMultipla.csproj",
-      "packagesPath": "C:\\Users\\Regional\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Regional\\Desktop\\Feitos na Sala Teste\\Aulas de POO em C Sharp\\Aulas-de-POO-com-C-Sharp\\HerancaMultipla\\HerancaMultipla\\obj\\",
+      "projectPath": "C:\\Users\\willi\\Desktop\\Programing\\GitHub Aulas de POO em C#\\HerancaMultipla\\HerancaMultipla\\HerancaMultipla.csproj",
+      "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\willi\\Desktop\\Programing\\GitHub Aulas de POO em C#\\HerancaMultipla\\HerancaMultipla\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Regional\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
