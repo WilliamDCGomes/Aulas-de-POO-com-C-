@@ -1,0 +1,13 @@
+C:\Users\Alunos\Desktop\Aulas-de-POO-com-C-Sharp\Restrições do Generics\Restrições do Generics\bin\Debug\netcoreapp3.1\Restrições do Generics.exe
+C:\Users\Alunos\Desktop\Aulas-de-POO-com-C-Sharp\Restrições do Generics\Restrições do Generics\bin\Debug\netcoreapp3.1\Restrições do Generics.deps.json
+C:\Users\Alunos\Desktop\Aulas-de-POO-com-C-Sharp\Restrições do Generics\Restrições do Generics\bin\Debug\netcoreapp3.1\Restrições do Generics.runtimeconfig.json
+C:\Users\Alunos\Desktop\Aulas-de-POO-com-C-Sharp\Restrições do Generics\Restrições do Generics\bin\Debug\netcoreapp3.1\Restrições do Generics.runtimeconfig.dev.json
+C:\Users\Alunos\Desktop\Aulas-de-POO-com-C-Sharp\Restrições do Generics\Restrições do Generics\bin\Debug\netcoreapp3.1\Restrições do Generics.dll
+C:\Users\Alunos\Desktop\Aulas-de-POO-com-C-Sharp\Restrições do Generics\Restrições do Generics\bin\Debug\netcoreapp3.1\Restrições do Generics.pdb
+C:\Users\Alunos\Desktop\Aulas-de-POO-com-C-Sharp\Restrições do Generics\Restrições do Generics\obj\Debug\netcoreapp3.1\Restrições do Generics.csprojAssemblyReference.cache
+C:\Users\Alunos\Desktop\Aulas-de-POO-com-C-Sharp\Restrições do Generics\Restrições do Generics\obj\Debug\netcoreapp3.1\Restrições do Generics.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Aulas-de-POO-com-C-Sharp\Restrições do Generics\Restrições do Generics\obj\Debug\netcoreapp3.1\Restrições do Generics.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Aulas-de-POO-com-C-Sharp\Restrições do Generics\Restrições do Generics\obj\Debug\netcoreapp3.1\Restrições do Generics.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Aulas-de-POO-com-C-Sharp\Restrições do Generics\Restrições do Generics\obj\Debug\netcoreapp3.1\Restrições do Generics.dll
+C:\Users\Alunos\Desktop\Aulas-de-POO-com-C-Sharp\Restrições do Generics\Restrições do Generics\obj\Debug\netcoreapp3.1\Restrições do Generics.pdb
+C:\Users\Alunos\Desktop\Aulas-de-POO-com-C-Sharp\Restrições do Generics\Restrições do Generics\obj\Debug\netcoreapp3.1\Restrições do Generics.genruntimeconfig.cache
