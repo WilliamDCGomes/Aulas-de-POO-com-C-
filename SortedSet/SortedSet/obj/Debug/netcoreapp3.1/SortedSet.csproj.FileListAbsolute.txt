@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Aulas-de-POO-com-C-Sharp\SortedSet\SortedSet\bin\Debug\netcoreapp3.1\SortedSet.exe
+C:\Users\Lenovo\Desktop\Aulas-de-POO-com-C-Sharp\SortedSet\SortedSet\bin\Debug\netcoreapp3.1\SortedSet.deps.json
+C:\Users\Lenovo\Desktop\Aulas-de-POO-com-C-Sharp\SortedSet\SortedSet\bin\Debug\netcoreapp3.1\SortedSet.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Aulas-de-POO-com-C-Sharp\SortedSet\SortedSet\bin\Debug\netcoreapp3.1\SortedSet.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Aulas-de-POO-com-C-Sharp\SortedSet\SortedSet\bin\Debug\netcoreapp3.1\SortedSet.dll
+C:\Users\Lenovo\Desktop\Aulas-de-POO-com-C-Sharp\SortedSet\SortedSet\bin\Debug\netcoreapp3.1\SortedSet.pdb
+C:\Users\Lenovo\Desktop\Aulas-de-POO-com-C-Sharp\SortedSet\SortedSet\obj\Debug\netcoreapp3.1\SortedSet.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Aulas-de-POO-com-C-Sharp\SortedSet\SortedSet\obj\Debug\netcoreapp3.1\SortedSet.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Aulas-de-POO-com-C-Sharp\SortedSet\SortedSet\obj\Debug\netcoreapp3.1\SortedSet.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Aulas-de-POO-com-C-Sharp\SortedSet\SortedSet\obj\Debug\netcoreapp3.1\SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Aulas-de-POO-com-C-Sharp\SortedSet\SortedSet\obj\Debug\netcoreapp3.1\SortedSet.dll
+C:\Users\Lenovo\Desktop\Aulas-de-POO-com-C-Sharp\SortedSet\SortedSet\obj\Debug\netcoreapp3.1\SortedSet.pdb
+C:\Users\Lenovo\Desktop\Aulas-de-POO-com-C-Sharp\SortedSet\SortedSet\obj\Debug\netcoreapp3.1\SortedSet.genruntimeconfig.cache
