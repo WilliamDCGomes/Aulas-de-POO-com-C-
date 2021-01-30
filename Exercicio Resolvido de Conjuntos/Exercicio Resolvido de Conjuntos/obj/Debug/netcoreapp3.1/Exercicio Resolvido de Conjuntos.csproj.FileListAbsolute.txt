@@ -1,0 +1,13 @@
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido de Conjuntos\Exercicio Resolvido de Conjuntos\bin\Debug\netcoreapp3.1\Exercicio Resolvido de Conjuntos.exe
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido de Conjuntos\Exercicio Resolvido de Conjuntos\bin\Debug\netcoreapp3.1\Exercicio Resolvido de Conjuntos.deps.json
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido de Conjuntos\Exercicio Resolvido de Conjuntos\bin\Debug\netcoreapp3.1\Exercicio Resolvido de Conjuntos.runtimeconfig.json
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido de Conjuntos\Exercicio Resolvido de Conjuntos\bin\Debug\netcoreapp3.1\Exercicio Resolvido de Conjuntos.runtimeconfig.dev.json
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido de Conjuntos\Exercicio Resolvido de Conjuntos\bin\Debug\netcoreapp3.1\Exercicio Resolvido de Conjuntos.dll
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido de Conjuntos\Exercicio Resolvido de Conjuntos\bin\Debug\netcoreapp3.1\Exercicio Resolvido de Conjuntos.pdb
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido de Conjuntos\Exercicio Resolvido de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Resolvido de Conjuntos.csprojAssemblyReference.cache
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido de Conjuntos\Exercicio Resolvido de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Resolvido de Conjuntos.AssemblyInfoInputs.cache
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido de Conjuntos\Exercicio Resolvido de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Resolvido de Conjuntos.AssemblyInfo.cs
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido de Conjuntos\Exercicio Resolvido de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Resolvido de Conjuntos.csproj.CoreCompileInputs.cache
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido de Conjuntos\Exercicio Resolvido de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Resolvido de Conjuntos.dll
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido de Conjuntos\Exercicio Resolvido de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Resolvido de Conjuntos.pdb
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Resolvido de Conjuntos\Exercicio Resolvido de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Resolvido de Conjuntos.genruntimeconfig.cache
