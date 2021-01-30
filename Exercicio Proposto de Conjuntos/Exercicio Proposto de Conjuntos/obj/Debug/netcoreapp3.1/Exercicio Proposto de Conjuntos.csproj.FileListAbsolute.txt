@@ -1,0 +1,13 @@
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto de Conjuntos\Exercicio Proposto de Conjuntos\bin\Debug\netcoreapp3.1\Exercicio Proposto de Conjuntos.exe
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto de Conjuntos\Exercicio Proposto de Conjuntos\bin\Debug\netcoreapp3.1\Exercicio Proposto de Conjuntos.deps.json
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto de Conjuntos\Exercicio Proposto de Conjuntos\bin\Debug\netcoreapp3.1\Exercicio Proposto de Conjuntos.runtimeconfig.json
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto de Conjuntos\Exercicio Proposto de Conjuntos\bin\Debug\netcoreapp3.1\Exercicio Proposto de Conjuntos.runtimeconfig.dev.json
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto de Conjuntos\Exercicio Proposto de Conjuntos\bin\Debug\netcoreapp3.1\Exercicio Proposto de Conjuntos.dll
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto de Conjuntos\Exercicio Proposto de Conjuntos\bin\Debug\netcoreapp3.1\Exercicio Proposto de Conjuntos.pdb
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto de Conjuntos\Exercicio Proposto de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Proposto de Conjuntos.csprojAssemblyReference.cache
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto de Conjuntos\Exercicio Proposto de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Proposto de Conjuntos.AssemblyInfoInputs.cache
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto de Conjuntos\Exercicio Proposto de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Proposto de Conjuntos.AssemblyInfo.cs
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto de Conjuntos\Exercicio Proposto de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Proposto de Conjuntos.csproj.CoreCompileInputs.cache
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto de Conjuntos\Exercicio Proposto de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Proposto de Conjuntos.dll
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto de Conjuntos\Exercicio Proposto de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Proposto de Conjuntos.pdb
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto de Conjuntos\Exercicio Proposto de Conjuntos\obj\Debug\netcoreapp3.1\Exercicio Proposto de Conjuntos.genruntimeconfig.cache
