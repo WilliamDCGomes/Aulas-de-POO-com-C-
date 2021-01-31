@@ -1,0 +1,13 @@
+D:\Programing\GitLab Aulas de POO com C#\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary e SortedDictionary.exe
+D:\Programing\GitLab Aulas de POO com C#\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary e SortedDictionary.deps.json
+D:\Programing\GitLab Aulas de POO com C#\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary e SortedDictionary.runtimeconfig.json
+D:\Programing\GitLab Aulas de POO com C#\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary e SortedDictionary.runtimeconfig.dev.json
+D:\Programing\GitLab Aulas de POO com C#\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary e SortedDictionary.dll
+D:\Programing\GitLab Aulas de POO com C#\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary e SortedDictionary.pdb
+D:\Programing\GitLab Aulas de POO com C#\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.csprojAssemblyReference.cache
+D:\Programing\GitLab Aulas de POO com C#\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.AssemblyInfoInputs.cache
+D:\Programing\GitLab Aulas de POO com C#\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.AssemblyInfo.cs
+D:\Programing\GitLab Aulas de POO com C#\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.csproj.CoreCompileInputs.cache
+D:\Programing\GitLab Aulas de POO com C#\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.dll
+D:\Programing\GitLab Aulas de POO com C#\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.pdb
+D:\Programing\GitLab Aulas de POO com C#\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.genruntimeconfig.cache

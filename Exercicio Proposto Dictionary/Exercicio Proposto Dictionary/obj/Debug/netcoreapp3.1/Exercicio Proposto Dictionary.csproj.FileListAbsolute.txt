@@ -1,0 +1,12 @@
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto Dictionary\Exercicio Proposto Dictionary\bin\Debug\netcoreapp3.1\Exercicio Proposto Dictionary.exe
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto Dictionary\Exercicio Proposto Dictionary\bin\Debug\netcoreapp3.1\Exercicio Proposto Dictionary.deps.json
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto Dictionary\Exercicio Proposto Dictionary\bin\Debug\netcoreapp3.1\Exercicio Proposto Dictionary.runtimeconfig.json
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto Dictionary\Exercicio Proposto Dictionary\bin\Debug\netcoreapp3.1\Exercicio Proposto Dictionary.runtimeconfig.dev.json
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto Dictionary\Exercicio Proposto Dictionary\bin\Debug\netcoreapp3.1\Exercicio Proposto Dictionary.dll
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto Dictionary\Exercicio Proposto Dictionary\bin\Debug\netcoreapp3.1\Exercicio Proposto Dictionary.pdb
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto Dictionary\Exercicio Proposto Dictionary\obj\Debug\netcoreapp3.1\Exercicio Proposto Dictionary.AssemblyInfoInputs.cache
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto Dictionary\Exercicio Proposto Dictionary\obj\Debug\netcoreapp3.1\Exercicio Proposto Dictionary.AssemblyInfo.cs
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto Dictionary\Exercicio Proposto Dictionary\obj\Debug\netcoreapp3.1\Exercicio Proposto Dictionary.csproj.CoreCompileInputs.cache
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto Dictionary\Exercicio Proposto Dictionary\obj\Debug\netcoreapp3.1\Exercicio Proposto Dictionary.dll
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto Dictionary\Exercicio Proposto Dictionary\obj\Debug\netcoreapp3.1\Exercicio Proposto Dictionary.pdb
+D:\Programing\GitHub Aulas de POO em C#\Exercicio Proposto Dictionary\Exercicio Proposto Dictionary\obj\Debug\netcoreapp3.1\Exercicio Proposto Dictionary.genruntimeconfig.cache
