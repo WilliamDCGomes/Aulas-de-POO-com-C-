@@ -1,0 +1,13 @@
+D:\Programing\GitHub Aulas de POO em C#\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.exe
+D:\Programing\GitHub Aulas de POO em C#\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.deps.json
+D:\Programing\GitHub Aulas de POO em C#\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.runtimeconfig.json
+D:\Programing\GitHub Aulas de POO em C#\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.runtimeconfig.dev.json
+D:\Programing\GitHub Aulas de POO em C#\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.dll
+D:\Programing\GitHub Aulas de POO em C#\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.pdb
+D:\Programing\GitHub Aulas de POO em C#\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.csprojAssemblyReference.cache
+D:\Programing\GitHub Aulas de POO em C#\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.AssemblyInfoInputs.cache
+D:\Programing\GitHub Aulas de POO em C#\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.AssemblyInfo.cs
+D:\Programing\GitHub Aulas de POO em C#\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.csproj.CoreCompileInputs.cache
+D:\Programing\GitHub Aulas de POO em C#\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.dll
+D:\Programing\GitHub Aulas de POO em C#\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.pdb
+D:\Programing\GitHub Aulas de POO em C#\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.genruntimeconfig.cache
