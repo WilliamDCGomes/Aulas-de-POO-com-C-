@@ -1,0 +1,12 @@
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethodDemo2/ExtensionsMethodDemo2/bin/Debug/netcoreapp3.1/ExtensionsMethodDemo2.deps.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethodDemo2/ExtensionsMethodDemo2/bin/Debug/netcoreapp3.1/ExtensionsMethodDemo2.runtimeconfig.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethodDemo2/ExtensionsMethodDemo2/bin/Debug/netcoreapp3.1/ExtensionsMethodDemo2.runtimeconfig.dev.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethodDemo2/ExtensionsMethodDemo2/bin/Debug/netcoreapp3.1/ExtensionsMethodDemo2.dll
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethodDemo2/ExtensionsMethodDemo2/bin/Debug/netcoreapp3.1/ExtensionsMethodDemo2.pdb
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethodDemo2/ExtensionsMethodDemo2/obj/Debug/netcoreapp3.1/ExtensionsMethodDemo2.csprojAssemblyReference.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethodDemo2/ExtensionsMethodDemo2/obj/Debug/netcoreapp3.1/ExtensionsMethodDemo2.AssemblyInfoInputs.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethodDemo2/ExtensionsMethodDemo2/obj/Debug/netcoreapp3.1/ExtensionsMethodDemo2.AssemblyInfo.cs
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethodDemo2/ExtensionsMethodDemo2/obj/Debug/netcoreapp3.1/ExtensionsMethodDemo2.csproj.CoreCompileInputs.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethodDemo2/ExtensionsMethodDemo2/obj/Debug/netcoreapp3.1/ExtensionsMethodDemo2.dll
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethodDemo2/ExtensionsMethodDemo2/obj/Debug/netcoreapp3.1/ExtensionsMethodDemo2.pdb
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethodDemo2/ExtensionsMethodDemo2/obj/Debug/netcoreapp3.1/ExtensionsMethodDemo2.genruntimeconfig.cache

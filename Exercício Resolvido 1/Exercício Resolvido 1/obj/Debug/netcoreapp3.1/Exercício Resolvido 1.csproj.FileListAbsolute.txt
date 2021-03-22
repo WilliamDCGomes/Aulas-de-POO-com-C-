@@ -1,0 +1,13 @@
+C:\Users\willi\Documents\Feitos em CSharp\Exercício Resolvido 1\Exercício Resolvido 1\bin\Debug\netcoreapp3.1\Exercício Resolvido 1.exe
+C:\Users\willi\Documents\Feitos em CSharp\Exercício Resolvido 1\Exercício Resolvido 1\bin\Debug\netcoreapp3.1\Exercício Resolvido 1.deps.json
+C:\Users\willi\Documents\Feitos em CSharp\Exercício Resolvido 1\Exercício Resolvido 1\bin\Debug\netcoreapp3.1\Exercício Resolvido 1.runtimeconfig.json
+C:\Users\willi\Documents\Feitos em CSharp\Exercício Resolvido 1\Exercício Resolvido 1\bin\Debug\netcoreapp3.1\Exercício Resolvido 1.runtimeconfig.dev.json
+C:\Users\willi\Documents\Feitos em CSharp\Exercício Resolvido 1\Exercício Resolvido 1\bin\Debug\netcoreapp3.1\Exercício Resolvido 1.dll
+C:\Users\willi\Documents\Feitos em CSharp\Exercício Resolvido 1\Exercício Resolvido 1\bin\Debug\netcoreapp3.1\Exercício Resolvido 1.pdb
+C:\Users\willi\Documents\Feitos em CSharp\Exercício Resolvido 1\Exercício Resolvido 1\obj\Debug\netcoreapp3.1\Exercício Resolvido 1.csprojAssemblyReference.cache
+C:\Users\willi\Documents\Feitos em CSharp\Exercício Resolvido 1\Exercício Resolvido 1\obj\Debug\netcoreapp3.1\Exercício Resolvido 1.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Feitos em CSharp\Exercício Resolvido 1\Exercício Resolvido 1\obj\Debug\netcoreapp3.1\Exercício Resolvido 1.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Feitos em CSharp\Exercício Resolvido 1\Exercício Resolvido 1\obj\Debug\netcoreapp3.1\Exercício Resolvido 1.AssemblyInfo.cs
+C:\Users\willi\Documents\Feitos em CSharp\Exercício Resolvido 1\Exercício Resolvido 1\obj\Debug\netcoreapp3.1\Exercício Resolvido 1.dll
+C:\Users\willi\Documents\Feitos em CSharp\Exercício Resolvido 1\Exercício Resolvido 1\obj\Debug\netcoreapp3.1\Exercício Resolvido 1.pdb
+C:\Users\willi\Documents\Feitos em CSharp\Exercício Resolvido 1\Exercício Resolvido 1\obj\Debug\netcoreapp3.1\Exercício Resolvido 1.genruntimeconfig.cache

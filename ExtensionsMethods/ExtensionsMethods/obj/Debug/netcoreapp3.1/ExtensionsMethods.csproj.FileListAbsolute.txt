@@ -1,0 +1,12 @@
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethods/ExtensionsMethods/bin/Debug/netcoreapp3.1/ExtensionsMethods.deps.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethods/ExtensionsMethods/bin/Debug/netcoreapp3.1/ExtensionsMethods.runtimeconfig.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethods/ExtensionsMethods/bin/Debug/netcoreapp3.1/ExtensionsMethods.runtimeconfig.dev.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethods/ExtensionsMethods/bin/Debug/netcoreapp3.1/ExtensionsMethods.dll
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethods/ExtensionsMethods/bin/Debug/netcoreapp3.1/ExtensionsMethods.pdb
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethods/ExtensionsMethods/obj/Debug/netcoreapp3.1/ExtensionsMethods.csprojAssemblyReference.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethods/ExtensionsMethods/obj/Debug/netcoreapp3.1/ExtensionsMethods.AssemblyInfoInputs.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethods/ExtensionsMethods/obj/Debug/netcoreapp3.1/ExtensionsMethods.AssemblyInfo.cs
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethods/ExtensionsMethods/obj/Debug/netcoreapp3.1/ExtensionsMethods.csproj.CoreCompileInputs.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethods/ExtensionsMethods/obj/Debug/netcoreapp3.1/ExtensionsMethods.dll
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethods/ExtensionsMethods/obj/Debug/netcoreapp3.1/ExtensionsMethods.pdb
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/ExtensionsMethods/ExtensionsMethods/obj/Debug/netcoreapp3.1/ExtensionsMethods.genruntimeconfig.cache
