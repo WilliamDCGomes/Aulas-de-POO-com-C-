@@ -1,0 +1,12 @@
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/PredicateRemoveAll/PredicateRemoveAll/bin/Debug/netcoreapp3.1/PredicateRemoveAll.deps.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/PredicateRemoveAll/PredicateRemoveAll/bin/Debug/netcoreapp3.1/PredicateRemoveAll.runtimeconfig.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/PredicateRemoveAll/PredicateRemoveAll/bin/Debug/netcoreapp3.1/PredicateRemoveAll.runtimeconfig.dev.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/PredicateRemoveAll/PredicateRemoveAll/bin/Debug/netcoreapp3.1/PredicateRemoveAll.dll
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/PredicateRemoveAll/PredicateRemoveAll/bin/Debug/netcoreapp3.1/PredicateRemoveAll.pdb
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/PredicateRemoveAll/PredicateRemoveAll/obj/Debug/netcoreapp3.1/PredicateRemoveAll.csprojAssemblyReference.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/PredicateRemoveAll/PredicateRemoveAll/obj/Debug/netcoreapp3.1/PredicateRemoveAll.AssemblyInfoInputs.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/PredicateRemoveAll/PredicateRemoveAll/obj/Debug/netcoreapp3.1/PredicateRemoveAll.AssemblyInfo.cs
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/PredicateRemoveAll/PredicateRemoveAll/obj/Debug/netcoreapp3.1/PredicateRemoveAll.csproj.CoreCompileInputs.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/PredicateRemoveAll/PredicateRemoveAll/obj/Debug/netcoreapp3.1/PredicateRemoveAll.dll
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/PredicateRemoveAll/PredicateRemoveAll/obj/Debug/netcoreapp3.1/PredicateRemoveAll.pdb
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/PredicateRemoveAll/PredicateRemoveAll/obj/Debug/netcoreapp3.1/PredicateRemoveAll.genruntimeconfig.cache
