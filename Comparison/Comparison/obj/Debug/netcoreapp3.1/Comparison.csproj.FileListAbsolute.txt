@@ -1,0 +1,12 @@
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Comparison/Comparison/bin/Debug/netcoreapp3.1/Comparison.deps.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Comparison/Comparison/bin/Debug/netcoreapp3.1/Comparison.runtimeconfig.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Comparison/Comparison/bin/Debug/netcoreapp3.1/Comparison.runtimeconfig.dev.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Comparison/Comparison/bin/Debug/netcoreapp3.1/Comparison.dll
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Comparison/Comparison/bin/Debug/netcoreapp3.1/Comparison.pdb
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Comparison/Comparison/obj/Debug/netcoreapp3.1/Comparison.csprojAssemblyReference.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Comparison/Comparison/obj/Debug/netcoreapp3.1/Comparison.AssemblyInfoInputs.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Comparison/Comparison/obj/Debug/netcoreapp3.1/Comparison.AssemblyInfo.cs
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Comparison/Comparison/obj/Debug/netcoreapp3.1/Comparison.csproj.CoreCompileInputs.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Comparison/Comparison/obj/Debug/netcoreapp3.1/Comparison.dll
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Comparison/Comparison/obj/Debug/netcoreapp3.1/Comparison.pdb
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Comparison/Comparison/obj/Debug/netcoreapp3.1/Comparison.genruntimeconfig.cache
