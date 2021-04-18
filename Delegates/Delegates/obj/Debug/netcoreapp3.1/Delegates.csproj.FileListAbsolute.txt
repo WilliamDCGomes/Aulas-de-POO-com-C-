@@ -1,0 +1,12 @@
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.deps.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.dev.json
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.dll
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.pdb
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.csprojAssemblyReference.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfoInputs.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfo.cs
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.csproj.CoreCompileInputs.cache
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.dll
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.pdb
+/Users/williamdouglascostagomes/Desktop/Repositorios/GitHub Aulas de POO em C#/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.genruntimeconfig.cache
