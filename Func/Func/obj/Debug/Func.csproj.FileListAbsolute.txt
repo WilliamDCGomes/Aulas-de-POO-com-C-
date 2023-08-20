@@ -1,0 +1,8 @@
+C:\Projetos\curso_c_sharp\Func\Func\bin\Debug\Func.exe.config
+C:\Projetos\curso_c_sharp\Func\Func\bin\Debug\Func.exe
+C:\Projetos\curso_c_sharp\Func\Func\bin\Debug\Func.pdb
+C:\Projetos\curso_c_sharp\Func\Func\obj\Debug\Func.csproj.AssemblyReference.cache
+C:\Projetos\curso_c_sharp\Func\Func\obj\Debug\Func.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\curso_c_sharp\Func\Func\obj\Debug\Func.csproj.CoreCompileInputs.cache
+C:\Projetos\curso_c_sharp\Func\Func\obj\Debug\Func.exe
+C:\Projetos\curso_c_sharp\Func\Func\obj\Debug\Func.pdb
