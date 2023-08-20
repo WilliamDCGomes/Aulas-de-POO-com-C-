@@ -1,0 +1,8 @@
+C:\Projetos\curso_c_sharp\Actions\Actions\bin\Debug\Actions.exe.config
+C:\Projetos\curso_c_sharp\Actions\Actions\bin\Debug\Actions.exe
+C:\Projetos\curso_c_sharp\Actions\Actions\bin\Debug\Actions.pdb
+C:\Projetos\curso_c_sharp\Actions\Actions\obj\Debug\Actions.csproj.AssemblyReference.cache
+C:\Projetos\curso_c_sharp\Actions\Actions\obj\Debug\Actions.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\curso_c_sharp\Actions\Actions\obj\Debug\Actions.csproj.CoreCompileInputs.cache
+C:\Projetos\curso_c_sharp\Actions\Actions\obj\Debug\Actions.exe
+C:\Projetos\curso_c_sharp\Actions\Actions\obj\Debug\Actions.pdb
